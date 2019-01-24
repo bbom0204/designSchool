@@ -12,6 +12,6 @@ body{
 
 /* body{
   background-color: pink;
-  /*background-image: repeating-linear-gradient(red, red 20px, green 20px, green 40px)*/
+  background-image: repeating-linear-gradient(red, red 20px, green 20px, green 40px)
   background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 } */
